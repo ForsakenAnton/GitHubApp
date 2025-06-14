@@ -12,4 +12,9 @@ struct MathOperations
 	{
 		std::cout << l - r << "\n";
 	}
+
+	void multiply(int l, int r)
+	{
+		std::cout << l * r << "\n";
+	}
 };
