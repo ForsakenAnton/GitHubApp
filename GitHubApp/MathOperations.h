@@ -7,4 +7,9 @@ struct MathOperations
 	{
 		std::cout << l + r << "\n";
 	}
+
+	void minus(int l, int r)
+	{
+		std::cout << l - r << "\n";
+	}
 };
