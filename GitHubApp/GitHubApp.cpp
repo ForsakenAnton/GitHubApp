@@ -16,5 +16,7 @@ int main()
     std::cout << se.minus("Qwerty", "Qwer") << "\n\n";
 
     std::cout << "Some Changes here by main user into master branch\n\n";
+
+    std::cout << "Wrong code...\n\n";
 }
 
