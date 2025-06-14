@@ -18,5 +18,7 @@ int main()
     std::cout << "Some Changes here by main user into master branch\n\n";
 
     std::cout << "Right code...\n\n";
+
+    std::cout << "Add some code...\n\n";
 }
 
