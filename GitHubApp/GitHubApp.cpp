@@ -14,5 +14,7 @@ int main()
 
     StringExtension se;
     std::cout << se.minus("Qwerty", "Qwer") << "\n\n";
+
+    std::cout << "Some Changes here by main user into master branch\n\n";
 }
 
