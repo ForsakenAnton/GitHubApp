@@ -18,5 +18,8 @@
     <ClCompile Include="GitHubApp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MathOperations.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
