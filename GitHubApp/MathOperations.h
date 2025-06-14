@@ -33,4 +33,9 @@ struct MathOperations
 	{
 		std::cout << std::abs(value);
 	}
+
+	void compare(int l, int r)
+	{
+		std::cout << (l == r) << "\n";
+	}
 };
