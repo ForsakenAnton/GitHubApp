@@ -17,4 +17,8 @@ struct MathOperations
 	{
 		std::cout << l * r << "\n";
 	}
+	void divide(int l, int r)
+	{
+		std::cout << l / r << "\n";
+	}
 };
