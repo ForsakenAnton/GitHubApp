@@ -1,5 +1,6 @@
 #include <iostream>
 #include "MathOperations.h"
+#include "StringExtension.h"
 
 int main()
 {
@@ -10,5 +11,8 @@ int main()
     math.minus(3, 4);
     math.multiply(3, 4);
     math.divide(3, 4);
+
+    StringExtension se;
+    std::cout << se.minus("Qwerty", "Qwer") << "\n\n";
 }
 

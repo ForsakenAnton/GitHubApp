@@ -126,6 +126,9 @@
     <ClCompile Include="GitHubApp.cpp" />
     <ClCompile Include="MathOperations.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="StringExtension.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
