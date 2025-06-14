@@ -7,5 +7,7 @@ int main()
 
     MathOperations math;
     math.plus(3, 4);
+    math.minus(3, 4);
+    math.multiply(3, 4);
 }
 
