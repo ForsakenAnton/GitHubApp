@@ -28,4 +28,9 @@ struct MathOperations
 
 		std::cout << l / r << "\n";
 	}
+
+	void abs(int value)
+	{
+		std::cout << std::abs(value);
+	}
 };
