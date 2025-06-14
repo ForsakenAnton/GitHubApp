@@ -28,4 +28,14 @@ struct MathOperations
 
 		std::cout << l / r << "\n";
 	}
+
+	void abs(int value)
+	{
+		std::cout << std::abs(value);
+	}
+
+	void compare(int l, int r)
+	{
+		std::cout << (l == r) << "\n";
+	}
 };
