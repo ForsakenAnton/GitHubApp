@@ -9,7 +9,6 @@ int main()
     math.plus(3, 4);
     math.minus(3, 4);
     math.multiply(3, 4);
-
-    math.divide(5, 6);
+    math.divide(3, 4);
 }
 
