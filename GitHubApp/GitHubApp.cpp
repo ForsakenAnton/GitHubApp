@@ -24,5 +24,7 @@ int main()
     std::cout << "Add some code 3...\n\n";
 
     // some comment
+
+    // Add some successfull code!
 }
 
